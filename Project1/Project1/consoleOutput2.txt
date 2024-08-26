@@ -1,0 +1,6 @@
+Enter the skip number: 7
+Enter the filename to be scanned:  infile2.txt
+
+Size of infile.txt:              632
+Size of outfile.txt:             563
+File size change:                89.08%

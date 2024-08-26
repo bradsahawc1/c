@@ -1,0 +1,17 @@
+Enter the input File: cities2-1.txt
+
+                     City      Population Dens.   Livability
+                Atlanta          451.209                  52.363
+                 Boston          517.143                  36.146
+          Cincinnati          298.633                  72.542
+                  Dallas          251.294                  77.090
+          Las_Vegas          158.677                  83.462
+      Los_Angeles          576.611                  16.672
+       Minneapolis          303.487                  72.202
+ New_York_City          730.751                  6.360
+                 Seattle          370.022                  64.140
+Washington_DC          493.871                  41.381
+
+
+Best city:  Las_Vegas, with a livability of 83.462
+The 10 cities have an average livability of 52.236

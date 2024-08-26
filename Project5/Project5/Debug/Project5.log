@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework5\Project5\Project5\Source.c(5,20): warning C4101: 'check': unreferenced local variable
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework5\Project5\Project5\Source.c(5,27): warning C4101: 'isprime': unreferenced local variable
+  Project5.vcxproj -> C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework5\Project5\Debug\Project5.exe

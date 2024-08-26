@@ -1,0 +1,23 @@
+﻿  InputOutput.c
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\CityRating.h(14,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\InputOutput.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\InputOutput.c(12,18): warning C4028: formal parameter 1 different from declaration
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\InputOutput.c(13,18): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\InputOutput.c(13,16): warning C4024: 'fscanf': different types for formal and actual parameter 1
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\InputOutput.c(17,18): warning C4028: formal parameter 1 different from declaration
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\InputOutput.c(23,83): warning C4028: formal parameter 5 different from declaration
+  Main.c
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\CityRating.h(14,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(32,28): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(32,19): warning C4024: 'input': different types for formal and actual parameter 2
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(36,18): warning C4047: 'function': 'char' differs in levels of indirection from 'char [20]'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(36,10): warning C4024: 'output': different types for formal and actual parameter 1
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(37,18): warning C4047: 'function': 'char' differs in levels of indirection from 'char [20]'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(37,10): warning C4024: 'update': different types for formal and actual parameter 1
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(37,29): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(37,20): warning C4024: 'update': different types for formal and actual parameter 2
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(44,74): warning C4047: 'function': 'char' differs in levels of indirection from 'char [20]'
+C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Project2\Main.c(44,66): warning C4024: 'summary': different types for formal and actual parameter 5
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Cameron Bradshaw\Documents\Computer Systems\Homework\Homework2\Project2\Debug\Project2.exe

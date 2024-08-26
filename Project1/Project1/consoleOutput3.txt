@@ -1,0 +1,6 @@
+Enter the skip number: 3
+Enter the filename to be scanned:  infile3.txt
+
+Size of infile.txt:              2369
+Size of outfile.txt:             1750
+File size change:                73.87%
